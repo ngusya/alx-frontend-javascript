@@ -1,4 +1,3 @@
-
 export default function createIteratorObject(report) {
   const workers = [];
   /* eslint-disable no-unused-vars */
