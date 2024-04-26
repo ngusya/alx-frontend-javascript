@@ -1,7 +1,6 @@
 function getResponseFromAPI() {
-	return new Promise((resolve, reject) => {
-	resolve(0);
-	})
+	const promise = [romise.resolve(20);
+	return promise;
 }
 
 const response = getResponseFromAPI();
