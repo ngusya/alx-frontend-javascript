@@ -1,4 +1,3 @@
-function getResponseFromAPI() {
-	const promise = [romise.resolve(20);
-	return promise;
+export default function getResponseFromAPI() {
+  return new Promise(() => {});
 }
