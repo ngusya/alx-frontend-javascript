@@ -15,4 +15,4 @@ function updateStudentGradeByCity(students, city, newGrades) {
     });
   }
   
- export default updateStudentGradeByCity;
+export default updateStudentGradeByCity;
